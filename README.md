@@ -1,5 +1,5 @@
 # pt6964
-A display based on the PT6968 segment controller get a new life! muahahah! 
+A display based on the PT6964 segment controller get a new life! muahahah! 
 Salvaged display with keys from a old sat receiver. Connected it to attin2313 and wrote this little code to give the display a new purpose.
 Maybe someone is also finding a pt6964 based display module or similar and try to give it new life :-)
 # adapt
