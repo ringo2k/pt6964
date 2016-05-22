@@ -1,6 +1,6 @@
 # pt6964
 A display based on the PT6964 7 segment controller get a new life! muahahah! 
-Salvaged display with keys from a old sat receiver, connected it to attiny2313 and wrote this little code to give the display a new purpose.
+Salvaged display with keys from a old sat receiver, connected it to attiny2313 (PB0, PB1, PB2 and PB3 see in the picture below) and wrote this little code to give the display a new purpose.
 ![Pinout](https://raw.githubusercontent.com/ringo2k/pt6964/master/doc/pt6964doku.jpg)
 Maybe someone is also finding a pt6964 based display module or similar and try to give it a new life :-)
 # adapt
